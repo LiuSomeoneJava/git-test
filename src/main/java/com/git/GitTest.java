@@ -9,7 +9,7 @@ public class GitTest {
         System.out.println("hot-fix");
         System.out.println("分支冲突 hot-fix");
         System.out.println("分子冲突 master");
-
+        System.out.println("push test");
     }
 
 }
