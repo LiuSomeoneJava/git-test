@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("分子冲突 master");
         System.out.println("push test");
         System.out.println("push test2");
+         System.out.println("push test3");
     }
 
 }
